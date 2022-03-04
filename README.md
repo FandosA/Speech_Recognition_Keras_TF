@@ -7,8 +7,8 @@ Here I show the loss and accuracy curves I got when I did the project.
 
 ![Spectrogram_results](https://user-images.githubusercontent.com/71872419/156835006-6f6df845-3709-42d3-aa5c-99839120599c.jpg)
 
-                                               Curves using sprectrograms
+                                          Curves using sprectrograms
 
 ![MFCC_results](https://user-images.githubusercontent.com/71872419/156835068-6cf679e6-b684-4a08-91ed-36bea6d2d1d2.jpg)
 
-                                                  Curves using MFCCs
+                                             Curves using MFCCs
