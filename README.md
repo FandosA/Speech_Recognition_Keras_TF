@@ -9,6 +9,7 @@ Here I show the loss and accuracy curves I got when I did the project.
 <p align="center">
 Curves using spectrograms
 </p>
+
 ![MFCC_results](https://user-images.githubusercontent.com/71872419/156835068-6cf679e6-b684-4a08-91ed-36bea6d2d1d2.jpg)
 <p align="center">
 Curves using MFCCs
